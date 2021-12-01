@@ -1,2 +1,2 @@
 # blog-spring-boot-docker
-A blog project
+A Dockerized Spring Boot Application
