@@ -11,7 +11,8 @@ A Dockerized Spring Boot Application
 docker build -t exceptionly/demo .
 ```
 
-## Run the dockerized application
+## Swagger documentation
 ```
-docker run -p 8080:8080 exceptionly/demo
+You can access the Swagger documentation from the link below.
+http://localhost:8080/swagger-ui/index.html#
 ```
